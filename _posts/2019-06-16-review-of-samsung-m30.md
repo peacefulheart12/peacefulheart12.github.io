@@ -5,5 +5,5 @@ author: Gaurav Tiwari
 categories:
   - Technology
 summary: Samsung M30 in Nepal Design and Specification
-thumbnail: posts/useful-tools.jpg
+thumbnail: posts/school.JPG
 ---
