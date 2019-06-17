@@ -10,6 +10,8 @@ title: Docs
 * Open VSCODE
 * Open Terminal
 * Enter following command in Terminal
+`git config --global user.name "peacefulheart12"`
+`git config --global user.email "tiwarigaurav8642@gmail.com"`
 `gem install jekyll`
 * Clone Your Repository
 `git clone https://github.com/peacefulheart12/website`
@@ -20,6 +22,7 @@ title: Docs
 * Open localhost:4000 in your browser
 * Make required changes
 * Commit the changes by going to Source Control Tab in VSCODE and click tick mark
+* Enter relevant commit messages
 * Push the changes by click Sync icon in VSCODE at bottom
 
 
