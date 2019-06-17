@@ -1,16 +1,15 @@
 title: Gaurav Tiwari
 subtitle: An Enthusiastic Software Engineer
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ This site is to know about Gaurav Tiwari. You can find various articles on the basis of Literature,Travel,
+ Politics and Technology.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://peacefulheart12.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 author_logo: gaurav.JPG
 disqus_shortname: gauravtiwari-1  #for comments using disqus
 author: Gaurav
-author_bio: Hello, my name is John Doe.I am an award winning Full Stack Web Developer and UI/UX Javascript specialist.Check out my blog articles, React.JS and Vue.JS UI components at the code laboratory.Feel free to take a look at my latest projects below.Based in London, UK. 
+author_bio: I am a software engineer. Likely,softwares are intengible heart is also intengible. So,I belive in love and software.A dream doesnot become reality through magic;It takes enthusiasm ,determination and hard work.I believe in hardwork and loyality.
 author_email: "gauravtiwari8642@gmail.com"
 author_location: Nepal
 author_website_url: "https://gauravtiwari.com.np"
