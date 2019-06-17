@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Setup
+Setup
 * Setup Ruby
 * Setup Git
 * Install VSCODE
