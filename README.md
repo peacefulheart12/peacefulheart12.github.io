@@ -3,6 +3,26 @@ layout: page
 title: Docs
 ---
 
+# Setup
+* Setup Ruby
+* Setup Git
+* Install VSCODE
+* Open VSCODE
+* Open Terminal
+* Enter following command in Terminal
+`gem install jekyll`
+* Clone Your Repository
+`git clone https://github.com/peacefulheart12/website`
+* Open the Cloned project in VSCODE
+* Open the Terminal
+* Start Server
+`jekyll s`
+* Open localhost:4000 in your browser
+* Make required changes
+* Commit the changes by going to Source Control Tab in VSCODE and click tick mark
+* Push the changes by click Sync icon in VSCODE at bottom
+
+
 # devlopr jekyll - Getting Started
 
 [![Gem Version](https://badge.fury.io/rb/devlopr.svg)](https://badge.fury.io/rb/devlopr)
