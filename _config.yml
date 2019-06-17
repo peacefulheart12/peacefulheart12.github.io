@@ -8,15 +8,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 author_logo: gaurav.JPG
-disqus_shortname: sujay-kundu  #for comments using disqus
-author: devlopr
+disqus_shortname: gauravtiwari-1  #for comments using disqus
+author: Gaurav
 author_bio: Hello, my name is John Doe.I am an award winning Full Stack Web Developer and UI/UX Javascript specialist.Check out my blog articles, React.JS and Vue.JS UI components at the code laboratory.Feel free to take a look at my latest projects below.Based in London, UK. 
 author_email: "gauravtiwari8642@gmail.com"
 author_location: Nepal
-author_website_url: "https://yourwebsite.com"
+author_website_url: "https://gauravtiwari.com.np"
 
 # social links
-github_username:  yourusername
-facebook_username: yourusername
-linkedin_username: yourusername
-instagram_username: yourusername
+github_username:  peacefulheart12
+facebook_username: gaurav.tiwari.54922169
+linkedin_username: gaurav-tiwari-555b7b139
+instagram_username: gaurav_tiwari666
