@@ -3,7 +3,7 @@ title: म, जनहित र ज्ञान
 layout: post
 author: Gaurav Tiwari
 categories:
-  - Politics
+  - Literature
 summary: मेरो  जनहित प्राण भन्दा प्यारो छ किनकि म जे छु जनहितकै कारण छु
 thumbnail: posts/school.jpg
 ---
