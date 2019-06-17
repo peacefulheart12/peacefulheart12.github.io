@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /blog/categories/jekyll
+permalink: /blog/categories/Travel
 ---
  
 <h3> Posts by Category : {{ page.title }} </h3>
 
 <div class="card">
-{% for post in site.categories.jekyll %}
+{% for post in site.categories.Travel %}
  <li class="category-posts"><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </div>
