@@ -5,7 +5,7 @@ author: Gaurav Tiwari
 categories:
   - Literature
 summary:  म त उस्लाइ हेर्दाहेर्दै कति पटक आशु झरालेछु पत्तै भएन । मेरा हातले पहिले उस्का आशु पुछिदिए ,  त्यसपछि आफ्नो पुछे । 
-thumbnail: posts/chadani.jpg
+thumbnail: posts/love.jpg
 ---
 
 
