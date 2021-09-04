@@ -14,6 +14,7 @@ HTML code, which focuses on the appearance and format of a web page.
 XML code, which doesn’t look a lot different from HTML but focuses more on managing data in a web page.
 1.1 HTML code
 HTML code has an expected format and structure, to make it easy for people to develop web pages. Here is an example of a simple HTML page:
+![IMDB](/Users/gauravtiwari/Documents/GitHub/peacefulheart12.github.io/assets/img/posts/web-scraping/Screenshot 2021-09-04 at 23.37.45.png)
 <!DOCTYPE html>
 <html>
 <head>
