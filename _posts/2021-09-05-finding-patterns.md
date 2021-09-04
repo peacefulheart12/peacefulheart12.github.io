@@ -81,8 +81,26 @@ p <- ggplot(df, aes(x, y))
 p + geom_point()
 ```
 
+<style>
+img {
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 150px; /* Set a small width */
+}
 
-![png](output_4_0.png)
+/* Add a hover effect (blue shadow) */
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+</style>
+<body>
+
+<a target="_blank" href="output_4_0.png">
+  <img src="output_4_0.png" alt="patterns">
+</a>
+
+</body>
 
 
 
@@ -128,7 +146,27 @@ df <- data.frame(t, x, y)
 p <- ggplot(df, aes(x*t, y*t))
 p + geom_point()
 ```
-![png](posts/output_7_0.png)
+
+<style>
+img {
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 150px; /* Set a small width */
+}
+
+/* Add a hover effect (blue shadow) */
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+</style>
+<body>
+
+<a target="_blank" href="output_7_0.png">
+  <img src="output_7_0.png" alt="patterns">
+</a>
+
+</body>
 
 
 
