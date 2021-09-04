@@ -5,6 +5,26 @@ layout: post
 author: Gaurav Tiwari
 thumbnail: posts/useful-tools.jpg
 ---
+<style>
+img {
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 150px; /* Set a small width */
+}
+
+/* Add a hover effect (blue shadow) */
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+</style>
+<body>
+
+<a target="_blank" href="useful-tools.jpg">
+  <img src="useful-tools.jpg" alt="tools">
+</a>
+
+</body>
 I used to think web scraping sounded complicated. You’d have to decode a bunch of HTML and Javascript and do messy hacking to get at what you wanted.
 But once I took a crack at it using my favourite language of R, I realized that tools exist to make it very tidy and straightforward, and I was surprised by how quickly and easily I was pulling facts, tables, images and various other assets from websites.
 So I’ve written up a step by step guide to get you started. You can also find the Markdown version of this guide and the various functions and assets I created here so you can execute them in your R session.
