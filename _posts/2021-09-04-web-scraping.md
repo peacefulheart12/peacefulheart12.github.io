@@ -15,24 +15,8 @@ HTML code, which focuses on the appearance and format of a web page.
 XML code, which doesn’t look a lot different from HTML but focuses more on managing data in a web page.
 1.1 HTML code
 HTML code has an expected format and structure, to make it easy for people to develop web pages. Here is an example of a simple HTML page:
-![IMDB](Users/gauravtiwari/Documents/GitHub/peacefulheart12.github.io/assets/img/posts/web-scraping/Screenshot 2021-09-04 at 23.37.45.png)
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-</body>
-</html>
+<img src="Downloads/webapp.png" alt="Web">
 As you can see, the content is wrapped in tags like <head>, <body>, <p>. These tags are pre-defined by the language (you can only use the tags that HTML allows). Because HTML has a more predictable structure, it is often easier to work with it and mine it.
 1.2 XML code
 XML format and structure is less predictable. Although it looks very similar to HTML, users can create their own named tags. Here is an example:
-<note>
- <to>Keith</to>
- <from>Steve</from>
- <heading>Kudos</heading>
- <body>Awesome work, dude!</body>
-</note>
 Tags like <to> and <from> are completely made up by me. The fact that tags are not pre-defined makes XML a little harder to mine and analyze. But it’s hard to get at some of the data on the web without using XML.
