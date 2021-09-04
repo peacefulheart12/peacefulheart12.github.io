@@ -1,10 +1,11 @@
 
 ---
-title: "Web Scraping in R"
-summary: "Scraping movie Data from IMDB with the rvest package"
+title: "Finding patterns with R"
+summary: "Making differnt kinds of flower"
 layout: post
 author: Gaurav Tiwari
-thumbnail: posts/useful-tools.jpg
+thumbnail: assets/img/posts/output_13_0.png
+
 ---
 
 
