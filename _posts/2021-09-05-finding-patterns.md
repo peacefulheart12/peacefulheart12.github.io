@@ -1,13 +1,31 @@
-
 ---
-title: "Finding patterns with R"
-summary: "Making differnt kinds of flower"
+title: "Pattern Recognition"
+summary: "Finding different patterns using programming language R "
 layout: post
 author: Gaurav Tiwari
-thumbnail: assets/img/posts/output_13_0.png
-
+thumbnail: posts/output_13_0.png
 ---
 
+<style>
+img {
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 150px; /* Set a small width */
+}
+
+/* Add a hover effect (blue shadow) */
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+</style>
+<body>
+
+<a target="_blank" href="output_13_0.png">
+  <img src="output_13_0.png" alt="patterns">
+</a>
+
+</body>
 
 ## 1. Patterns in nature
 <p><img style="float: left;margin:2px 2px 2px 2px" src="https://assets.datacamp.com/production/project_62/img/phyllotaxis2.png" height="300" width="300">  </p>
