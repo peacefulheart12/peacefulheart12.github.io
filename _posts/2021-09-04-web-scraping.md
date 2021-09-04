@@ -3,6 +3,7 @@ title: "Web Scraping in R"
 summary: "Scraping movie Data from IMDB with the rvest package"
 layout: post
 author: Gaurav Tiwari
+thumbnail: /Users/gauravtiwari/Documents/GitHub/peacefulheart12.github.io/assets/img/posts/web-scraping/Screenshot 2021-09-04 at 23.37.45.png
 ---
 I used to think web scraping sounded complicated. You’d have to decode a bunch of HTML and Javascript and do messy hacking to get at what you wanted.
 But once I took a crack at it using my favourite language of R, I realized that tools exist to make it very tidy and straightforward, and I was surprised by how quickly and easily I was pulling facts, tables, images and various other assets from websites.
