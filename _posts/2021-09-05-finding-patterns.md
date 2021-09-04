@@ -3,7 +3,7 @@ title: "Pattern Recognition"
 summary: "Finding different patterns using programming language R "
 layout: post
 author: Gaurav Tiwari
-thumbnail: posts/output_13_0.png
+thumbnail: posts/output_7_0.png
 ---
 
 <style>
@@ -128,23 +128,7 @@ df <- data.frame(t, x, y)
 p <- ggplot(df, aes(x*t, y*t))
 p + geom_point()
 ```
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-img { 
-  width: 100%; 
-}
-</style>
-</head>
-<body>
-
-<img src="posts/output_7_0.png" alt="HTML5 Icon" style="width:128px;height:128px;">
-
-</body>
-</html>
-
-![png](output_7_0.png)
+![png](posts/output_7_0.png)
 
 
 
