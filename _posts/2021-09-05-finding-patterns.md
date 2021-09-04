@@ -1,4 +1,11 @@
 
+---
+title: "Web Scraping in R"
+summary: "Scraping movie Data from IMDB with the rvest package"
+layout: post
+author: Gaurav Tiwari
+thumbnail: posts/useful-tools.jpg
+---
 
 
 ## 1. Patterns in nature
