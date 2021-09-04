@@ -1,6 +1,6 @@
 ---
 title: "Web Scraping in R"
-subtitle: "Scraping movie Data from IMDB with the rvest package"
+summary: "Scraping movie Data from IMDB with the rvest package"
 layout: post
 author: Gaurav Tiwari
 ---
