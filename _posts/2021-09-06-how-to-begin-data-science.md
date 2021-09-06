@@ -20,8 +20,8 @@ img:hover {
 </style>
 <body>
 
-<a target="_blank" href="output_13_0.png">
-  <img src="output_13_0.png" alt="patterns">
+<a target="_blank" href="webapp.png">
+  <img src="webapp.png" alt="patterns">
 </a>
 
 </body>
