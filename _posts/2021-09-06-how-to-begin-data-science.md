@@ -3,8 +3,9 @@ title: "First step to become Data Scientist"
 summary: " Must known three things by Data Science"
 layout: post
 author: Gaurav Tiwari
-thumbnail: assets/img/webapp.png
+thumbnail: posts/webapp.png
 ---
+
 <style>
 img {
   border: 1px solid #ddd; /* Gray border */
