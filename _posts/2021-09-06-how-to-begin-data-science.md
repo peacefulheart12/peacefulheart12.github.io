@@ -21,7 +21,7 @@ img:hover {
 <body>
 
 <a target="_blank" href="webapp.png">
-  <img src="webapp.png" alt="patterns">
+  <img src="webapp.png" alt="webapp">
 </a>
 
 </body>
