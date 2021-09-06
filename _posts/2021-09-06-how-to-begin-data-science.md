@@ -3,7 +3,7 @@ title: "First step to become Data Scientist"
 summary: " Must known three things by Data Science"
 layout: post
 author: Gaurav Tiwari
-thumbnail: posts/webapp.png
+thumbnail: posts/assets/img/webapp.png
 ---
 <style>
 img {
@@ -20,8 +20,8 @@ img:hover {
 </style>
 <body>
 
-<a target="_blank" href="webapp.png">
-  <img src="webapp.png" alt="webapp">
+<a target="_blank" href="assets/img/webapp.png">
+  <img src="assets/img/webapp.png" alt="webapp">
 </a>
 
 </body>
